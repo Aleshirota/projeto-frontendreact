@@ -112,7 +112,7 @@ https://user-images.githubusercontent.com/11279432/197185533-14582ca3-9eb0-4a5a-
 $ git clone Linkrepo
 
 # Acesse a pasta do projeto no seu terminal
-$ cd labeddit
+$ cd nome da pasta
 
 # Instale as dependencias
 $ npm install
